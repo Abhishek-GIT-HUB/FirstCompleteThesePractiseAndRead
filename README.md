@@ -61,5 +61,5 @@ Api versioning  <br />
 Polly / Fault tolerance <br />
  Open telemetary <br />
 Api documentation ( swagger/Open Api) <br />
-Gaurav clause <br/>
+Gaurd clause <br/>
 Idempotent Api
