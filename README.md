@@ -12,7 +12,7 @@ Monad <br />
 Pattern matching <br />
 
 
-DDD <br />
+TDD <br />
 
 Aggregarate root design <br />
 Strongly type properties <br />
