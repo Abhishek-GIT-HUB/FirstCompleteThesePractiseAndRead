@@ -40,13 +40,16 @@ Specification pattern <br />
 Keep master data with migration <br />
 
 
-
+  Pattern <br />
 Behaviour pattern <br />
 Adapter pattern <br />
-Dependency inversion principle <br />
 Decorator <br />
-Tell dont ask <br />
 Builder <br />
+ 
+  principles <br />
+Tell dont ask <br />
+Fail fast <br />
+Dependency inversion principle <br />
 
 
 C# api result expression with gaurd ( search in AI and implemnent) <br />
