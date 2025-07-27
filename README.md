@@ -49,7 +49,7 @@ Tell dont ask <br />
 Builder <br />
 
 
-
+C# api result expression with gaurd ( search in AI and implemnent) <br />
 CQRS mediate + create own cqrs <br />
 Cqrs event <br />
 Public Api authentication <br />
