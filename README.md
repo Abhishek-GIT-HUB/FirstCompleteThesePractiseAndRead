@@ -48,7 +48,7 @@ Decorator <br />
 Builder <br />
  
   principles <br />
-Tell dont ask <br />
+Tell dont ask ( e.g. ef core entity crud or validation)<br />
 Fail fast <br />
 Dependency inversion principle <br />
 
