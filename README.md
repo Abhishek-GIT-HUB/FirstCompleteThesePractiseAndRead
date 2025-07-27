@@ -63,4 +63,5 @@ Polly / Fault tolerance <br />
  Open telemetary <br />
 Api documentation ( swagger/Open Api) <br />
 Gaurd clause <br/>
-Idempotent Api
+Idempotent Api <br />
+result pattern 
