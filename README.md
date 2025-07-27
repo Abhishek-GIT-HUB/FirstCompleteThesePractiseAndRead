@@ -14,6 +14,12 @@ Pattern matching <br />
 
 
 TDD <br />
+unit testing <br />
+integration testing <br />
+functional testing <br />
+Load testing <br />
+
+Architecture testing(Narch unit) <br />
 
 Aggregarate root design <br />
 Strongly type properties <br />
