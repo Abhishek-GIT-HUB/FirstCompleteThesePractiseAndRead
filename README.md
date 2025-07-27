@@ -34,6 +34,7 @@ Complex Linqu <br />
 Expression <br />
 Funct as parameter <br />
 ---EF <br />
+Tda ef core ( searh on ai & create project with this approach every time)<br />
 Aggregarate root design <br />
 
 Specification pattern <br />
