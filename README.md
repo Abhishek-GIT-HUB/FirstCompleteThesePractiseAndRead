@@ -18,6 +18,10 @@ unit testing <br />
 integration testing <br />
 functional testing <br />
 Load testing <br />
+write unit test case for cancellation token<br />
+write unit test case for polly <br />
+write unit test case for retry limit<br />
+
 
 Architecture testing(Narch unit) <br />
 
