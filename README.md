@@ -60,7 +60,7 @@ Middleware configurations( Dependency injection) <br />
 Application exception handling <br />
 Global error handling <br />
 Specification pattern <br />
-Caching reddis distributed <br />
+Caching reddis / distributed / flush <br />
 Message broker / kafka / service bus <br /> 
 Shared kernel ( working with ardalis) <br />
 Tracing / serilog / app log <br />
