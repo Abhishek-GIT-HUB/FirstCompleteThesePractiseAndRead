@@ -3,6 +3,7 @@
 Tupple <br />
 Generic list <br />
 Generic interface <br />
+extension generic method <br/>
 Async await <br />
 Code it by Ambition ( reflection, process manipulation) <br />
 Null handling techniques <br />
