@@ -78,4 +78,5 @@ Polly / Fault tolerance <br />
 Api documentation ( swagger/Open Api) <br />
 Gaurd clause <br/>
 Idempotent Api <br />
-result pattern 
+result pattern <br />
+Api Gateway
