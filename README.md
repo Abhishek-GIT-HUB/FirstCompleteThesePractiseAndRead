@@ -61,6 +61,7 @@ Dependency inversion principle <br />
 
 
  exception handling api( Global exception handling in request pipeline) <br/>
+ Domain Exception <br/>
 C# api result expression with gaurd ( search in AI and implemnent) <br />
 CQRS mediate + create own cqrs <br />
 Cqrs event <br />
