@@ -61,27 +61,34 @@ Dependency inversion principle <br />
 
 
  exception handling api( Global exception handling in request pipeline) <br/>
+ Global error handling <br />
+ Application exception handling <br />
  Domain Exception <br/>
-C# api result expression with gaurd ( search in AI and implemnent) <br />
-CQRS mediate + create own cqrs <br />
-Cqrs event <br />
-Public Api authentication <br />
-User auenticattion .net core <br />
-Tokens and authentication <br />
-Rate limilit <br />
-Middleware configurations( Dependency injection) <br />
-Application exception handling <br />
-Global error handling <br />
-Specification pattern <br />
-Caching reddis / distributed / flush <br />
-Message broker / kafka / service bus <br /> 
-Shared kernel ( working with ardalis) <br />
-Tracing / serilog / app log <br />
-Api versioning  <br />
-Polly / Fault tolerance <br />
- Open telemetary <br />
-Api documentation ( swagger/Open Api) <br />
-Gaurd clause <br/>
-Idempotent Api <br />
+ 
+  Caching reddis / distributed / flush <br />
+ Message broker / kafka / service bus <br /> 
+ 
+ C# api result expression with gaurd ( search in AI and implemnent) <br />
+ Specification pattern <br />
+ Gaurd clause <br/>
+
+  User auenticattion .net core <br />
+  Public Api authentication <br />
+  Tokens and authentication <br />
+ 
+  CQRS mediate + create own cqrs <br />
+  Cqrs event <br />
+
+  Rate limilit <br />
+  Tracing / serilog / app log <br />
+  Api versioning  <br />
+  Polly / Fault tolerance <br />
+  Open telemetary <br />
+  Middleware configurations( Dependency injection) <br />
+  
+  Shared kernel ( working with ardalis) <br />
+  Api documentation ( swagger/Open Api) <br />
+
+   Idempotent Api <br />
 result pattern <br />
 Api Gateway
