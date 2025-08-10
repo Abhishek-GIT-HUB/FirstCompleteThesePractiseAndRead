@@ -44,6 +44,7 @@ Aggregarate root design <br />
 Specification pattern <br />
 Keep master data with migration <br />
 
+optimistic locking techniques <br/>
 
   Pattern <br />
 Behaviour pattern <br />
