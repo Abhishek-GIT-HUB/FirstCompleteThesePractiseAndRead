@@ -93,4 +93,5 @@ Dependency inversion principle <br />
 
    Idempotent Api <br />
 result pattern <br />
-Api Gateway
+Api Gateway<br/>
+health check .net core
